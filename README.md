@@ -58,3 +58,7 @@ npm run build
 - 密码保护、移除密码和权限控制需要接入本机 `qpdf` 等服务端工具。
 - Office/电子书格式转换需要接入 LibreOffice、Calibre 或专用转换器。
 - 损坏 PDF 修复、交互式表单填写和原始嵌入图片抽取需要更底层 PDF 解析能力。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ShawnPi233/EVA-PDF&type=Date)](https://www.star-history.com/#ShawnPi233/EVA-PDF&Date)
