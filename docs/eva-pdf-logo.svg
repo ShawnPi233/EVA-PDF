@@ -1,0 +1,20 @@
+<svg width="960" height="260" viewBox="0 0 960 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">EVA-PDF</title>
+  <desc id="desc">EVA-PDF project logo with a document mark and wordmark.</desc>
+  <rect width="960" height="260" rx="48" fill="#F8FAFC"/>
+  <rect x="26" y="26" width="908" height="208" rx="34" stroke="#E5E7EB" stroke-width="2"/>
+  <g transform="translate(92 54)">
+    <rect x="0" y="0" width="118" height="152" rx="22" fill="#2563EB"/>
+    <path d="M80 0L118 38H88C83.582 38 80 34.418 80 30V0Z" fill="#93C5FD"/>
+    <rect x="28" y="48" width="62" height="10" rx="5" fill="white" fill-opacity="0.95"/>
+    <rect x="28" y="72" width="46" height="10" rx="5" fill="white" fill-opacity="0.8"/>
+    <rect x="28" y="96" width="62" height="10" rx="5" fill="white" fill-opacity="0.95"/>
+    <path d="M34 128H84" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="252" y="125" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-4">EVA-PDF</text>
+  <text x="256" y="168" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Local PDF workspace for page-level editing</text>
+  <g transform="translate(760 82)">
+    <rect width="78" height="34" rx="17" fill="#DBEAFE"/>
+    <text x="39" y="23" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">LOCAL</text>
+  </g>
+</svg>
